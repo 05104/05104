@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Italo, and my focus is to be a programmer that can code complex systems and beat good challenges.
+I'm 05104, and my focus is to be a programmer that can code complex systems and beat good challenges.
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/iaurg)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iaurg/)](https://www.linkedin.com/in/iaurg/)
@@ -10,7 +10,7 @@ I'm Italo, and my focus is to be a programmer that can code complex systems and 
 ![iaurg github stats](https://github-readme-stats.vercel.app/api?username=iaurg&show_icons=true&title_color=fff&icon_color=FFCC00&text_color=9f9f9f&bg_color=151515)
 
 <!--
-**iaurg/iaurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**05104/05104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
